@@ -1,0 +1,5 @@
+@mixin wrapper($contentWidth) {
+  width: 100%;
+  max-width: $contentWidth;
+  margin: 0 auto;
+}
